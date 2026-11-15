@@ -6,7 +6,7 @@ A beginner-friendly tool for turning MP3, MIDI, and MusicXML into Arduino piezo-
 
 ## Screenshot
 
-![Image Alt]([./image.png](https://github.com/yuuhipro/PiezoPlay/blob/main/image.png?raw=true))
+![Image Alt](https://raw.githubusercontent.com/yuuhipro/PiezoPlay/refs/heads/main/image.jpg)
 
 No install needed. Import a music file, edit and preview the notes, then export Arduino code for a piezo buzzer.
 
