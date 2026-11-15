@@ -1,0 +1,40 @@
+:root {
+  --default-mode: dark;
+
+  --color-primary: oklch(0.52 0.11 78);
+  --color-background: oklch(0.972 0.008 235);
+  --color-foreground: oklch(0.25 0.035 252);
+
+  /* punch strip + piezo brass */
+  --color-brass: oklch(0.78 0.115 84);
+  --color-brass-deep: oklch(0.6 0.12 78);
+  /* punched holes = notes */
+  --color-hole: oklch(0.25 0.035 252);
+  /* playhead */
+  --color-signal: oklch(0.6 0.19 27);
+  /* code console */
+  --color-console: oklch(0.235 0.035 252);
+  --color-console-text: oklch(0.93 0.025 85);
+  --color-console-dim: oklch(0.79 0.035 250);
+  --color-console-num: oklch(0.82 0.12 84);
+
+  --font-sans: "Outfit", sans-serif;
+  --font-display: "Bricolage Grotesque", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --text-base: 16px;
+  --text-ratio: 1.5;
+
+  --spacing: 4px;
+  --radius: 10px;
+  --default-border-width: 1px;
+
+  --default-transition-duration: 220ms;
+  --default-transition-timing-function: cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.dark {
+  --color-brass: oklch(0.7 0.11 82);
+  --color-hole: oklch(0.2 0.03 252);
+  --color-console: oklch(0.17 0.03 252);
+  --color-console-text: oklch(0.93 0.025 85);
+}
