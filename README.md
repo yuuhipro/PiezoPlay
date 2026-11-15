@@ -22,5 +22,4 @@ No install needed. Import a music file, edit and preview the notes, then export 
 Arduino’s `tone()` function plays one note at a time, so full songs with chords, vocals, and multiple instruments may not convert cleanly. Clear, single-note melodies work best.
 
 ## Source code
-
-[View the PiezoPlay GitHub repository](https://github.com/yuuhipro/PiezoPlay)
+HERE.
