@@ -21,5 +21,6 @@ No install needed. Import a music file, edit and preview the notes, then export 
 
 Arduino’s `tone()` function plays one note at a time, so full songs with chords, vocals, and multiple instruments may not convert cleanly. Clear, single-note melodies work best.
 
-## Source code
-HERE.
+“Determination” from *Undertale*, composed by Toby Fox. Flute arrangement by Eliaz Bobadilla, shared by [UltiMusic Center on YouTube](https://www.youtube.com/watch?v=Myho5X5-F50).
+
+PiezoPlay is an independent fan-made tool and is not affiliated with or endorsed by Toby Fox.
