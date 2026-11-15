@@ -6,7 +6,7 @@ A beginner-friendly tool for turning MP3, MIDI, and MusicXML into Arduino piezo-
 
 ## Screenshot
 
-[PiezoPlay converting a melody into Arduino tone code](image.png)
+[PiezoPlay screenshot](./image.png)
 
 No install needed. Import a music file, edit and preview the notes, then export Arduino code for a piezo buzzer.
 
